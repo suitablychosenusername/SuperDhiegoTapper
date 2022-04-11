@@ -1,0 +1,16 @@
+----------------------------- Jogo -----------------------------
+
+		    Teclado		    PS4
+Atirar Prova	  Barra de Espaço	Quadrado/R1
+Mover para cima	  W/seta p/ cima	D-pad Up/L-Stick Up
+Mover para baixo  S/seta p/ baixo	D-pad Down/L-Stick Down
+
+------------------------ Menu de Título ------------------------
+
+Jogar		  Barra de Espaço	Quadrado/R1
+Sair  		  Esc			Círculo/Options
+
+------------------------ Menu Game Over ------------------------
+
+Jogar Novamente   Barra de Espaço	Quadrado/R1
+Voltar p/ Título  Esc			Círculo/Options
