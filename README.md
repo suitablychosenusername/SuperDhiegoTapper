@@ -1,7 +1,7 @@
 # SuperDhiegoTapper
 
-Protótipo de jogo feito na Unity2D, como projeto final da disciplina de Computação Gráfica.
+Game prototype, based upon the '83 hit game Tapper, made on Unity2D, as final evaluation exam for the Computer Graphics course.
 
-## Membros
+## Members
 * Fabio Lapa
 * Maycon Douglas
